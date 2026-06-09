@@ -1,16 +1,50 @@
-## Hi there 👋
+ Olá, eu sou o Ian
 
-<!--
-**iankow06/iankow06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Estudante do 1º ano do Ensino Médio na ETEC
 
-Here are some ideas to get you started:
+ Gosto de tecnologia e programação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+ Sobre Mim
+
+Atualmente estou aprendendo desenvolvimento web, lógica de programação e ferramentas de versionamento como Git e GitHub.
+
+Meu objetivo é desenvolver projetos que me ajudem a evoluir como programador e construir um portfólio sólido.
+
+---
+
+ Tecnologias
+
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- GitHub
+
+---
+
+  Projetos
+
+ Site de Portfólio
+Projeto desenvolvido para apresentar minhas habilidades e conhecimentos em desenvolvimento web.
+
+ Projetos Acadêmicos
+Atividades e trabalhos realizados durante meus estudos na ETEC.
+
+ Estudos de Programação
+Exercícios e desafios para aprimorar minha lógica de programação.
+
+---
+
+ Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iankow06&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iankow06&layout=compact&theme=github_dark)
+
+---
+
+ Contato
+
+- GitHub: https://github.com/iankow06
