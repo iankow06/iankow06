@@ -35,15 +35,7 @@ Atividades e trabalhos realizados durante meus estudos na ETEC.
  Estudos de Programação
 Exercícios e desafios para aprimorar minha lógica de programação.
 
----
 
- Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iankow06&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iankow06&layout=compact&theme=github_dark)
-
----
 
  Contato
 
