@@ -1,42 +1,111 @@
- Olá, eu sou o Ian
+<div align="center">
 
- Estudante do 1º ano do Ensino Médio na ETEC
+<img src="https://media1.tenor.com/m/2oxsNIYRbtgAAAAC/noah-sense-life.gif" width="800">
 
- Gosto de tecnologia e programação
+# ⚡ Ian Corrêa
 
----
+### 「 Sistema Inicializado 」
 
- Sobre Mim
+🎓 Estudante de Informática para Internet na ETEC Vasco Antônio Venchiarutti
 
-Atualmente estou aprendendo desenvolvimento web, lógica de programação e ferramentas de versionamento como Git e GitHub.
+💻 Desenvolvedor em treinamento
 
-Meu objetivo é desenvolver projetos que me ajudem a evoluir como programador e construir um portfólio sólido.
+🌎 Brasil
 
----
-
- Tecnologias
-
-- HTML5
-- CSS3
-- JavaScript
-- Git
-- GitHub
+</div>
 
 ---
 
-  Projetos
+# 📋 STATUS
 
- Site de Portfólio
-Projeto desenvolvido para apresentar minhas habilidades e conhecimentos em desenvolvimento web.
+```yaml
+Nome: Ian Corrêa
 
- Projetos Acadêmicos
-Atividades e trabalhos realizados durante meus estudos na ETEC.
+Especialidades:
+  - HTML
+  - CSS
+  - GitHub
+  - Design Web
+```
 
- Estudos de Programação
-Exercícios e desafios para aprimorar minha lógica de programação.
+---
 
+# 🎯 MISSÕES PRINCIPAIS
 
+- [x] Aprender HTML5
+- [x] Aprender CSS3
+- [x] Criar primeiro site completo
+- [x] Publicar projetos no GitHub
+- [ ] Dominar JavaScript
+- [ ] Aprender Banco de Dados
+- [ ] Conseguir estágio na área
 
- Contato
+---
 
-- GitHub: https://github.com/iankow06
+# ⚔️ HABILIDADES
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+
+</div>
+
+```txt
+HTML        ████████░░ 80%
+CSS         ███████░░░ 70%
+JavaScript  █████░░░░░ 50%
+GitHub      ██████░░░░ 60%
+```
+
+---
+
+# 📚 MISSÕES CONCLUÍDAS
+
+### 🌍 Geografia
+- Cartografia Tátil
+
+### 🧪 Química
+- Tabela Periódica
+- Forças Intermoleculares
+
+### 📖 História
+- Escravidão Atlântica
+
+### 💻 Desenvolvimento Web
+- Site sobre Engenharia de Software
+
+---
+
+# 🎒 INVENTÁRIO
+
+📂 Projetos Escolares
+
+📂 Sites Desenvolvidos
+
+📂 Estudos de Programação
+
+📂 Portfólio Pessoal
+
+---
+
+# 📊 PAINEL DO SISTEMA
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🌌 FRASE DO SISTEMA
+
+> "A evolução não acontece de uma vez. Cada missão concluída aumenta seu nível."
+
+<div align="center">
+
+### ⚡ Sistema Online ⚡
+
+</div>
